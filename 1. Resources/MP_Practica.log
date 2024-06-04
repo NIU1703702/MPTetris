@@ -1,0 +1,6 @@
+﻿  Partida.cpp
+C:\Users\David\Desktop\TetrisVersions\MPTETRIS\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\Partida.cpp(159,65): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\David\Desktop\TetrisVersions\MPTETRIS\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\Partida.cpp(160,66): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Tetris.cpp
+  Generando código...
+  MP_Practica.vcxproj -> C:\Users\David\Desktop\TetrisVersions\MPTETRIS\intro_llibreria_grafica_estudiants\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
